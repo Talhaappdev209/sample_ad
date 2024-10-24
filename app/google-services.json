@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "1056033732974",
+    "firebase_url": "https://avchattapp-default-rtdb.firebaseio.com",
+    "project_id": "avchattapp",
+    "storage_bucket": "avchattapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056033732974:android:cdcecb6c271320b04d697f",
+        "android_client_info": {
+          "package_name": "com.appcode.sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAno7j4upR2QLh2HJCr5hN3n2bFnBswjfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056033732974:android:9fb2f5a5ef9bacc54d697f",
+        "android_client_info": {
+          "package_name": "com.appcode.sampleadd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAno7j4upR2QLh2HJCr5hN3n2bFnBswjfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056033732974:android:5dd73c1e112134fb4d697f",
+        "android_client_info": {
+          "package_name": "com.appcode.tyfdghkfh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAno7j4upR2QLh2HJCr5hN3n2bFnBswjfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056033732974:android:460b04d333bb999a4d697f",
+        "android_client_info": {
+          "package_name": "com.av.avmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAno7j4upR2QLh2HJCr5hN3n2bFnBswjfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056033732974:android:6fde317954f989e44d697f",
+        "android_client_info": {
+          "package_name": "com.example.simplechatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAno7j4upR2QLh2HJCr5hN3n2bFnBswjfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
